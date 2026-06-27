@@ -2,7 +2,6 @@
 
 An uncertainty-aware hybrid recommendation framework for selecting Cloud Service Providers (CSPs) across multiple service domains using Deep Learning, Machine Learning, uncertainty estimation, and adaptive optimization.
 
-⸻
 
 Overview
 
@@ -18,8 +17,6 @@ The system supports recommendations across five cloud service domains:
 * Management
 * Security
 
-⸻
-
 Features
 
 * Hybrid Deep Neural Network + Random Forest prediction
@@ -31,7 +28,6 @@ Features
 * Confidence-aware recommendation ranking
 * Visualization of optimization weights, recommendation scores, and uncertainty analysis
 
-⸻
 
 System Architecture
 
@@ -39,7 +35,6 @@ System Architecture
   <img src="architecture.png" alt="System Architecture" width="700"/>
 </p>
 
-⸻
 
 Workflow
 
@@ -54,7 +49,6 @@ Workflow
 7. The final recommendation score is calculated using suitability, capability, user ratings, uncertainty, and stability.
 8. Cloud Service Providers are ranked according to the final score.
 
-⸻
 
 Technologies Used
 
@@ -66,7 +60,6 @@ Technologies Used
 * SciPy
 * Matplotlib
 
-⸻
 
 Project Structure
 
@@ -98,7 +91,7 @@ Run the project
 
 python csp_recommender.py
 
-⸻
+
 
 Results
 
@@ -114,7 +107,6 @@ The framework generates:
 
 Example outputs are available in the graphs folder.
 
-⸻
 
 Dataset
 
@@ -122,7 +114,6 @@ The datasets used during this research were provided through an academic worksho
 
 The implementation can be adapted to any dataset with the same structure.
 
-⸻
 
 Note on Model Accuracy
 
@@ -130,7 +121,6 @@ The Deep Neural Network achieves very high classification accuracy on the provid
 
 This result reflects the characteristics of the dataset rather than guaranteeing identical performance on unseen real-world cloud service data. The recommendation framework therefore incorporates uncertainty estimation, confidence scoring, and stability analysis to improve recommendation reliability.
 
-⸻
 
 Future Improvements
 
@@ -140,7 +130,7 @@ Future Improvements
 * Interactive web interface
 * Evaluation on larger real-world datasets
 
-⸻
+
 
 License
 
