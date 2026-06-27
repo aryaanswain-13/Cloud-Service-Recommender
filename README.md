@@ -36,7 +36,7 @@ Features
 System Architecture
 
 <p align="center">
-  <img src="architecture.png" width="700">
+  <img src="architecture.png" alt="System Architecture" width="700"/>
 </p>
 
 ⸻
