@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Dataset files
+*.xlsx
+*.xls
+
+# macOS
+.DS_Store
