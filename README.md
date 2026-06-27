@@ -107,6 +107,19 @@ The framework generates:
 
 Example outputs are available in the graphs folder.
 
+## Results
+
+### Optimized Weights Across Domains
+
+![Optimized Weights](graphs/weights_across_domains.png)
+
+### Top CSP Scores Across Domains
+
+![Top CSP Scores](graphs/top_scores.png)
+
+### Uncertainty vs Confidence
+
+![Uncertainty vs Confidence](graphs/uncertainty_vs_confidence.png)
 
 Dataset
 
